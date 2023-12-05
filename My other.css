@@ -2,8 +2,6 @@ p{
     color: brown;
 }
 h1{
-      padding: 20%;
-      margin: 2px;
-      border: 8px;
-      border-radius: 2%;
+    border: 8px;border-color: blueviolet;
+    border-radius: 2%;
 }
